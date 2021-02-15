@@ -1,0 +1,26 @@
+
+table{
+    width:75%;
+    margin:20px auto;
+  }
+  table tr td, table tr{
+    border-collapse: collapse;
+    border:1px solid #ccc;
+    font-size:14px;
+  }
+
+  .row{
+    padding: 10px;
+}
+.card{
+    margin: 10px;
+}
+.material-icons{
+    font-size: 30px;
+}
+button span{
+    font-size: 22px;
+}
+.action-buttons button{
+    margin : 5px;
+}
